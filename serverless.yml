@@ -1,5 +1,5 @@
-org: yourorg
-app: preview-deployments
+org: paulkleinschmidt1
+app: serverless-preview-deployments
 service: serverlessjams
 
 frameworkVersion: ">=1.53.0 <2.0.0"
